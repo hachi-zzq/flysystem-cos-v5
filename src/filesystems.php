@@ -66,6 +66,7 @@ return [
         'cosv5' => [
             'driver'         => 'cosv5',
             'region'         => env('COSV5_REGION', 'cn-east'),
+            'host'           => env('COSV5_HOST', "myqcloud.com"),
             'credentials'    => [
                 'appId'      => env('COSV5_APP_ID'),
                 'secretId'   => env('COSV5_SECRET_ID'),
