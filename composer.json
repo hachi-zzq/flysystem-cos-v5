@@ -6,7 +6,7 @@
         "php": ">=5.5.0",
         "league/flysystem": "~1.0",
         "guzzlehttp/guzzle": "~6.0",
-        "hachi-zzq/cos-sdk-v5": "dev-develop",
+        "hachi-zzq/cos-sdk-v5": "v1.3.5",
         "nesbot/carbon": "~1.0 || ^2.0",
         "ext-json": "*"
     },
